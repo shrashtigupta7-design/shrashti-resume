@@ -629,7 +629,7 @@
       padding:1.5rem;
     }
 
-    .nav-toggle:checked ~ .index-list{ display:block; }
+    .nav-toggle:checked ~ .index-nav .index-list{ display:block; }
 
     .nav-toggle-label{
       font-family:var(--mono);
